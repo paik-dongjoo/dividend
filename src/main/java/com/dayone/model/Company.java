@@ -1,10 +1,12 @@
 package com.dayone.model;
 
-import lombok.Builder;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
-@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class Company {
 
     // Entity 가 있음에도 model class 별도 정의 이유
