@@ -35,7 +35,7 @@ public class AuthController {
         var member = this.memberService.authenticate(request);
         // member 에 대한 token 발급
         var token = this.tokenProvider.generateToken(member.getUsername(), member.getRoles());
-
+        log.info("user login -> " + request.getUsername());
         return ResponseEntity.ok(token);
     }
 

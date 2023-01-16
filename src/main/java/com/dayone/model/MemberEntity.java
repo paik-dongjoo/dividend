@@ -26,7 +26,7 @@ public class MemberEntity implements UserDetails {
     private String password;
 
     // 아래 라인 어노테이션 미 적용시 에러 발생 이유 확인
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     private List<String> roles;
 
     @Override
