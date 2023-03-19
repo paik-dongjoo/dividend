@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/JPA-9400d3?style=flat&logo=JPA&logoColor=white" />
   <img src="https://img.shields.io/badge/Jsoup-ff6347?style=flat&logo=Jsoup&logoColor=white" />
 	<img src="https://img.shields.io/badge/H2-daa520?style=flat&logo=H2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-8b008b?style=flat&logo=Redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-4169e1?style=flat&logo=Docker&logoColor=white" />	
+  <img src="https://img.shields.io/badge/Redis-8b008b?style=flat&logo=Redis&logoColor=white" />	
 </div>
 
 <h3> 📜 Final Implementation List </h3>
