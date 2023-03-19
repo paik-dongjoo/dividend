@@ -16,7 +16,7 @@
 
 <div align="left">
 	<img src="https://img.shields.io/badge/Spring%20Boot-32cd32?style=flat&logo=Spring%20Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-6495ed?style=flat&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-6495ed?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-9400d3?style=flat&logo=JPA&logoColor=white" />
   <img src="https://img.shields.io/badge/Jsoup-ff6347?style=flat&logo=Jsoup&logoColor=white" />
 	<img src="https://img.shields.io/badge/H2-daa520?style=flat&logo=H2&logoColor=white" />
